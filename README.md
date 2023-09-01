@@ -1,6 +1,6 @@
 # 퍼블리싱 실습 모음집
 
-                                        <h2 class="name">작성자 : 강미나</h2>
+                                        <h2>작성자 : 강미나</h2>
                                         <ul>
                                                 <strong class="title"> 14주차 실습 과제 </strong>
                                                 <span>사이트명 : 고려대학교 </span>
