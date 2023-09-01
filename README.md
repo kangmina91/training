@@ -1,14 +1,5 @@
 # 퍼블리싱 실습 모음집
 
-
-
-        <div class="wrap">
-                <header class="header">
-                        <h1>퍼블리싱 실습 모음집</h1>
-                </header>
-                <main class="main">
-                        <section class="main_section">
-                                <div class="inner content">
                                         <h2 class="name">작성자 : 강미나</h2>
                                         <ul>
                                                 <strong class="title"> 14주차 실습 과제 </strong>
@@ -243,9 +234,7 @@
                                                                 저장소 페이지</a></li>
                                         </ul>
 
-                                </div>
-                        </section>
-                </main>
+               
                 <footer class="footer">
 
                 </footer>
